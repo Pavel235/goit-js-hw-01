@@ -1,4 +1,4 @@
-"use sctict"
+"use strict"
 
 function getElementWidth (content, padding, border) {
 
